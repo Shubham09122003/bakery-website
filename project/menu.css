@@ -1,0 +1,133 @@
+.header_text {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+    background-color: #332E2A;
+    padding-bottom: 10px;
+}
+
+.rusk {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.rusk_text {
+    padding: 20px;
+    font-size: 28px;
+}
+
+.rusk_img {
+    align-items: right;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.bread {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.bread_img {
+    align-items: right;
+    width: 55%;
+    border-radius: 8px;
+}
+
+.bread_text {
+    padding: 20px;
+    font-size: 28px;
+}
+
+.cake {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.cake_img {
+    align-items: right;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.cake_text {
+    padding: 20px;
+    font-size: 28px;
+}
+
+.pastry {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.pastry_img {
+    align-items: right;
+    width: 50%;
+    font-size: 28px;
+}
+
+.pastry_text {
+    padding: 20px;
+    font-size: large;
+}
+
+.cupcake {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.cupcake_img {
+    align-items: right;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.cupcake_text {
+    padding: 20px;
+    font-size: 28px;
+}
+
+.waffle {
+    display: flex;
+    padding: 50px;
+    margin-top: 50px;
+    margin: 130px;
+    background-color: #332E2A;
+    color: wheat;
+    font-size: 32px;
+}
+
+.waffle_img {
+    align-items: right;
+    width: 50%;
+}
+
+.waffle_text {
+    padding: 20px;
+    font-size: 28px;
+}
